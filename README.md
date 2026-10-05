@@ -19,7 +19,7 @@
 3. **Phantom Fog** — fog che vùng dưới; clear line để nhìn lại tạm thời.
 4. **Zero-G Rift** — gravity thay đổi `↓ → ↑ ←`; hàng/cột clear theo hướng gravity.
 5. **Cursed Tide** — garbage row dâng từ đáy theo chu kỳ.
-6. **Dual Area** - đấu đôi.
+6. **Dual Area** — đấu đôi.
 
 ## Điều khiển
 - `A / D` hoặc `← / →`: di chuyển ngang theo gravity.
