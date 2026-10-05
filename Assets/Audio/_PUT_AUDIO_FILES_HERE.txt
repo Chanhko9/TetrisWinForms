@@ -1,0 +1,10 @@
+Final Candidate includes original/procedural music for menu + all 5 game modes.
+Keep these filenames if you replace the tracks:
+- menu_theme.mp3
+- basic_theme.mp3
+- arcane_chaos.mp3
+- phantom_fog.mp3
+- zero_g_rift.mp3
+- cursed_tide.mp3
+
+All audio uses relative paths; no C:\\ or D:\\ user path is required.

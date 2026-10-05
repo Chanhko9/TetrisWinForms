@@ -1,0 +1,2 @@
+Final Candidate includes SFX for gameplay, mode warnings and all Arcane Chaos relics.
+You can replace any WAV file while keeping its filename.

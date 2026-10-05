@@ -1,0 +1,8 @@
+Final Candidate includes:
+- logo.png
+- 5 full-screen mode backgrounds
+- 5 mode thumbnails
+- Tetris.ico at project root for the Windows application icon
+
+You may replace PNG files with your own art while keeping the same filenames.
+All assets are loaded with relative paths from AppContext.BaseDirectory.
