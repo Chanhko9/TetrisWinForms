@@ -1,11 +1,11 @@
 # Tetris WinForms C# — Final Candidate
 
-Đồ án game Tetris WinForms C# với 5 chế độ chơi, nhạc nền riêng, hiệu ứng hình ảnh, chỉnh âm lượng, leaderboard và lưu lịch sử bằng TXT.
+Đồ án game Tetris WinForms C# với 6 chế độ chơi, nhạc nền riêng, hiệu ứng hình ảnh, chỉnh âm lượng, leaderboard và lưu lịch sử bằng TXT.
 
 ## Yêu cầu môi trường
 - Visual Studio 2022 có workload **.NET desktop development**.
 - .NET 8 SDK.
-- NuGet sẽ restore `NAudio 2.4.0` khi build.
+- NuGet restore `NAudio 2.4.0` khi build.
 
 ## Chạy project
 1. Mở `TetrisWinForms.sln`.
@@ -13,12 +13,13 @@
 3. Build Solution (`Ctrl + Shift + B`).
 4. Run (`F5`).
 
-## 5 chế độ
+## 6 chế độ
 1. **Basic** — Tetris truyền thống.
 2. **Arcane Chaos** — 9 relic ma thuật phá board, nhấn `F` để dùng.
 3. **Phantom Fog** — fog che vùng dưới; clear line để nhìn lại tạm thời.
 4. **Zero-G Rift** — gravity thay đổi `↓ → ↑ ←`; hàng/cột clear theo hướng gravity.
 5. **Cursed Tide** — garbage row dâng từ đáy theo chu kỳ.
+6. **Dual Area** - đấu đôi.
 
 ## Điều khiển
 - `A / D` hoặc `← / →`: di chuyển ngang theo gravity.
